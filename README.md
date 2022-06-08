@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prime-rog
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning C 
-- 💞️ I’m good at team work
+- C , JAVA , R 
+- ML 
 - 📫 just mail me if u feel so
 
 <!---
